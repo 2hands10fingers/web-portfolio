@@ -99,6 +99,6 @@ Stack: JavaScript/jQuery, SASS, Python, JSON, Boostrap
 ### Reddit Image Scraper v1.0-1.1
 Description: Scrapes Reddit images from any public subreddit by a user-specified date range and saves them to your computer.
 
-https://github.com/2hands10fingers/Reddit-Image-Scraper-1.0
+Repo: https://github.com/2hands10fingers/Reddit-Image-Scraper-1.0
 
 Stack: Python, Reddit API
