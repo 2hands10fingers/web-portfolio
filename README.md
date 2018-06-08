@@ -25,12 +25,15 @@ Custom theme built from scratch. Three-part website to cater to consumers, retai
 
 Stack: JavaScript/jQuery, SASS, PHP, Wordpress, Webpack, Bootstrap, nodeJS
 
+<hr>
+
 https://podcastmovement.com/
 
 Custom theme built from mock-ups for event-based organization. Setup for the client to make backend changes.
 
 Stack: JavaScript/jQuery, SASS, PHP, Wordpress, Webpack, Bootstrap, nodeJS
 
+<hr>
 
 https://ofdist.com/
 
@@ -75,6 +78,8 @@ Description: Webapp. Time Lord uses AJAX calls through Teamwork's API to pull th
 Stack: JavaScript/jQuery, CSS, PHP, mySQL, AJAX, JSON
 
 Repo: https://github.com/2hands10fingers/S205-Time-Lord
+
+<hr>
 
 ## For fun
 ### color-the-innanet
