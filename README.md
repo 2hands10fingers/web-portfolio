@@ -29,6 +29,8 @@ Stack: JavaScript/jQuery, SASS, PHP, Wordpress, Webpack, Bootstrap, nodeJS
 
 https://podcastmovement.com/
 
+Role: Assistant Developer / Currently site maintenance
+
 Custom theme built from mock-ups for event-based organization. Setup for the client to make backend changes.
 
 Stack: JavaScript/jQuery, SASS, PHP, Wordpress, Webpack, Bootstrap, nodeJS
@@ -49,7 +51,7 @@ Stack: PHP, jQuery, WordPress, CSS, WooCommerce, Yith Plugins, GravityForms, Pyt
 
 https://square205.com/
 
-Internal company website. 
+Internal company website. Fixed styles, added features,  reorganized PHP code, created new sections, website migration.
 
 Stack: JavaScript/jQuery, SASS, PHP, Wordpress, Webpack, Bootstrap, nodeJS
 
@@ -65,7 +67,7 @@ Stack: JavaScript/jQuery, SASS, PHP, Wordpress, Webpack, Bootstrap, nodeJS
 
 http://physmodo.com - Admin/gym owner panel (Backend)
 
-Description: Created Admin panel using massive database to create provide a backend for Admins to register and manage Gym Owners and their gym visitor's data for the Physmodo app.
+Description: Helped senior backend dev create an admin panel using a massive database to provide a backend for admins to register and manage gym owners and their gym visitor's data for the Physmodo app.
 
 Stack: JavaScript/jQuery, CSS, PHP, mySQL, Dolphin DB, Linux
 
@@ -73,7 +75,9 @@ Stack: JavaScript/jQuery, CSS, PHP, mySQL, Dolphin DB, Linux
 
 http://timelord.square205.com
 
-Description: Webapp. Time Lord uses AJAX calls through Teamwork's API to pull the available JSON data for each project's deadline, hours entered, and deadlines assigned. All you need to do to add a row, is to enter the project ID and the budgeted hours. Tracks hours and milestones to aid in budgeting billable and non-billable projects.
+Role: Sole Developer
+
+Description: I developed a webapp. Time Lord uses AJAX calls through Teamwork's API to pull the available JSON data for each project's deadline, hours entered, and deadlines assigned. All you need to do to add a row, is to enter the project ID and the budgeted hours. Tracks hours and milestones to aid in budgeting billable and non-billable projects.
 
 Stack: JavaScript/jQuery, CSS, PHP, mySQL, AJAX, JSON
 
@@ -81,7 +85,7 @@ Repo: https://github.com/2hands10fingers/S205-Time-Lord
 
 <hr>
 
-## For fun
+## For fun personal projects
 ### color-the-innanet
 
 http://glotacosm.com/colortheinnanet
