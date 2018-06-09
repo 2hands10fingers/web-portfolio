@@ -9,7 +9,7 @@ Role: Lead Developer
 
 Description:
 
-Custom Wordpress theme built from scratch and developed from design mock-ups. Built-in Google Analytics tracking solution to track downloads and page visits according to user meta data. Built majority of front-end. Complete with SASS styles, modals, registry logic, and gated content. Supply Chain Automation is a resource website for those interested in Supply Chain Automation to access educational resources.
+Supply Chain Automation is a resource website for those interested in Supply Chain Automation to access educational resources. Custom Wordpress theme built from scratch and developed from design mock-ups. Built-in Google Analytics tracking solution to track downloads and page visits according to user meta data. Built majority of front-end. Complete with SASS styles, modals, registry logic, and gated content. 
 
 Stack: JavaScript/jQuery, SASS, PHP, Wordpress, Webpack, Python, Mailchimp, WP-Members, Gravity Forms, Bootstrap, nodeJS
 
@@ -41,7 +41,7 @@ Role: Lead Developer
 
 Description:
 
-eCommerce website to send quotes for various office furniture items. Adapted Wordpress theme from deseigns to have its look and feel.
+eCommerce website to send quotes for various office furniture items. Adapted Wordpress theme from mockups to have its look and feel. Integrated fully-functional eCommerce functions.
 
 Stack: PHP, jQuery, WordPress, CSS, WooCommerce, Yith Plugins, GravityForms, Python, WP All Import/Export
 
@@ -73,7 +73,7 @@ Stack: JavaScript/jQuery, CSS, PHP, mySQL, Dolphin DB, Linux
 
 http://timelord.square205.com
 
-Description: Webapp. Time Lord uses AJAX calls through Teamwork's API to pull the available JSON data for each project's deadline, hours entered, and deadlines assigned. All you need to do to add a row, is to enter the project ID and the budgeted hours. Helped us understand how we're budgeting sites and how many hours we're into a project.
+Description: Webapp. Time Lord uses AJAX calls through Teamwork's API to pull the available JSON data for each project's deadline, hours entered, and deadlines assigned. All you need to do to add a row, is to enter the project ID and the budgeted hours. Tracks hours and milestones to aid in budgeting billable and non-billable projects.
 
 Stack: JavaScript/jQuery, CSS, PHP, mySQL, AJAX, JSON
 
@@ -94,7 +94,7 @@ Repo: https://github.com/2hands10fingers/color-the-internet
 
 ### movie-pal
 
-Description: CLI to access omdbapi and through webscraping, Produces a user interface for quickly copying data into spreadsheet data and also provides front-end search within the user interface.
+Description: CLI to access omdbapi and through webscraping, Produces a user interface for quickly copying data into spreadsheet rows/columns and also provides front-end API search within the user interface.
 
 Repo: https://github.com/2hands10fingers/movie-pal
 
