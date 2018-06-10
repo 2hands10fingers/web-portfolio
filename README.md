@@ -59,7 +59,7 @@ Stack: JavaScript/jQuery, SASS, PHP, Wordpress, Webpack, Bootstrap, nodeJS
 
 https://www.vacationrentalsuccesssummit.com/
 
-Even-based website. Helped senior dev with several elements.
+Event-based website. Helped senior dev with several elements.
 
 Stack: JavaScript/jQuery, SASS, PHP, Wordpress, Webpack, Bootstrap, nodeJS
 
