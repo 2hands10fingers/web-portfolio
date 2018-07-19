@@ -3,6 +3,14 @@ My personal development portfolio
 
 ## Professional
 
+https://autoquip.com
+
+Role: Supporting Dev, DevOps
+
+Consulted on developer operations, technical challenges, solving coding problems, and managing deployment.
+
+<hr>
+
 http://supplychain.dev.square205.com/
 
 Role: Lead Developer
@@ -15,7 +23,7 @@ Stack: JavaScript/jQuery, SASS, PHP, Wordpress, Webpack, Python, Mailchimp, WP-M
 
 <hr>
 
-http://moneyonmobile.in/
+http://moneyonmobile.us/
 
 Role: Sole/Lead Developer
 
