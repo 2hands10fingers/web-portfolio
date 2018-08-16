@@ -1,5 +1,5 @@
 # web-portfolio
-My personal development portfolio
+The personal development portfolio of Antonio Nogueras
 
 ## Professional
 
