@@ -11,7 +11,7 @@ Consulted on developer operations, technical challenges, solving coding problems
 
 <hr>
 
-http://supplychain.dev.square205.com/
+https://supplychainautomation.com/
 
 Role: Lead Developer
 
