@@ -3,15 +3,17 @@ The personal development portfolio of Antonio Nogueras
 
 ## Professional
 
-https://autoquip.com
+https://podcastmovement.com/
 
-Role: Supporting Dev, DevOps
+Role: Assistant Developer / Currently site maintenance
 
-Consulted on developer operations, technical challenges, solving coding problems, and managing deployment.
+Custom theme built from mock-ups for event-based organization. Setup for the client to make backend changes.
 
-<hr>
+Stack: JavaScript/jQuery, SASS, PHP, Wordpress, Webpack, Bootstrap, nodeJS
 
 https://supplychainautomation.com/
+
+<hr>
 
 Role: Lead Developer
 
@@ -35,13 +37,11 @@ Stack: JavaScript/jQuery, SASS, PHP, Wordpress, Webpack, Bootstrap, nodeJS
 
 <hr>
 
-https://podcastmovement.com/
+https://autoquip.com
 
-Role: Assistant Developer / Currently site maintenance
+Role: Supporting Dev, Maitenance
 
-Custom theme built from mock-ups for event-based organization. Setup for the client to make backend changes.
-
-Stack: JavaScript/jQuery, SASS, PHP, Wordpress, Webpack, Bootstrap, nodeJS
+Consulted on developer operations, technical challenges, solving coding problems, and managing deployment. Perform maintenace and build new additions.
 
 <hr>
 
