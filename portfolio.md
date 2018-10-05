@@ -13,7 +13,7 @@ https://podcastmovement.com/
 
 <hr>
 
-https://supplychainautomation.com/
+http://supplychain.dev.square205.com
 
 <strong>Role:</strong> Lead Developer
 
