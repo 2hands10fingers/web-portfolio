@@ -5,7 +5,7 @@ The personal development portfolio of Antonio Nogueras
 
 https://podcastmovement.com/
 
-<strong>Role</strong>: Assistant Developer / Currently site maintenance
+<strong>Role</strong>: Lead Developer
 
 <strong>Description</strong> Custom theme built from mock-ups for event-based organization. Setup for the client to make backend changes.
 
